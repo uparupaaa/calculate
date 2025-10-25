@@ -1,0 +1,35 @@
+@charset 'utf-8';
+
+#question {
+  font-size: 64px;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+
+}
+
+input {
+  display: block;
+  font-size: 32px;
+  margin: 0 auto;
+}
+
+#timer {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+}
+
+#reset {
+  float: right;
+  /* display: block; */
+  /* margin-top: 200px; */
+  /* margin-right: 50px; */
+  font-size: 50px;
+  font-weight: bold
+}
+
+.finish {
+  background: pink;
+}
